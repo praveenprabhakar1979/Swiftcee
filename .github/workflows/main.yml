@@ -1,4 +1,4 @@
-name: deploy laravelcrud
+name: deploy GinAndGormX
 
 on:
   push:
